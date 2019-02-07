@@ -12,7 +12,7 @@
 
 6. ketik "ya" untuk melanjutkan dan ketik "tidak" untuk mengakhiri
 
-!foto2](https://raw.githubusercontent.com/adammaulana/labpy1/master/tugas2.png)
+![foto2](https://raw.githubusercontent.com/adammaulana/labpy1/master/tugas2.png)
 1.a=int(input('Bilangan ke-1 = '))
 	(Masukkan bilangan ke-1)
   
